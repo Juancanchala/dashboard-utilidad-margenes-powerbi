@@ -4,7 +4,7 @@ Dashboard interactivo diseñado para visualizar la utilidad y el margen de difer
 
 ---
 
-![Vista del Dashboard](imagen-utilidad.png)
+![Vista del Dashboard](imagen-utilidad.jpg)
 
 ## Tecnologías utilizadas
 - **Power BI** – Visualización y análisis de datos
